@@ -1,3 +1,5 @@
+# 甘明在网页上修改的
+
 class SignLinklist:
     # 节点类
     class Node:
